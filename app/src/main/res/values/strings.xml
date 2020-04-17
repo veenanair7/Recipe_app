@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe App</string>
+
+
+    <string
+    name="messageWithLink"><a href="https://www.indianhealthyrecipes.com/kadai-chicken/">Tap here to open Link</a></string>
+    <string
+    name="messageWithLink1"><a href="https://www.recipetineats.com/biryani/">Tap here for recipe link</a></string>
+    <string
+        name="messageWithLink2"><a href="https://food.ndtv.com/recipe-boneless-chilli-chicken-98809">Tap here for recipe link</a></string>
+    <string
+        name="messageWithLink3"><a href="https://www.vegrecipesofindia.com/paneer-butter-masala/">Tap here for recipe link</a></string>
+</resources>
